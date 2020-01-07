@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P1P3</string>
+    <string name="Ingrese">Ingrese su Nombre</string>
+    <string name="Cont">Contenido</string>
+    <string name="Cargar">Cargar</string>
+</resources>
